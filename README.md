@@ -6,7 +6,7 @@ This repository contains the design, schematic, testbench, and simulation result
 
 ## 1. Schematic Diagram
 
-![Schematic](NOR_Schematic.png)
+![Schematic](NOR_SCHEMATIC.png)
 
 This image displays the transistor-level circuit diagram of the **2-input NOR gate**.  
 The core of this circuit is built using **CMOS (Complementary Metal-Oxide-Semiconductor)** technology.
@@ -27,7 +27,7 @@ The core of this circuit is built using **CMOS (Complementary Metal-Oxide-Semico
 
 ## 2. Schematic Symbol
 
-![Symbol](NOR_Symbol.png)
+![Symbol](NOR_SYMBOL.png)
 
 This is the **simplified schematic symbol** for the 2-input NOR gate.  
 It abstracts the transistor-level design into a reusable block.
