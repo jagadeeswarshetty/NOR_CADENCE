@@ -4,7 +4,7 @@ This repository contains the design, schematic, testbench, and simulation result
 
 ---
 
-## 1. Schematic Diagram
+## Schematic Diagram
 
 ![Schematic](NOR_SCHEMATIC.png)
 
@@ -25,7 +25,7 @@ The core of this circuit is built using **CMOS (Complementary Metal-Oxide-Semico
 
 ---
 
-## 2. Schematic Symbol
+## Schematic Symbol
 
 ![Symbol](NOR_SYMBOL.png)
 
@@ -40,7 +40,7 @@ This symbolic representation makes it easier to use the NOR gate in larger circu
 
 ---
 
-## 3. Testbench Setup
+## Testbench Setup
 
 ![Testbench](NOR_TB.png)
 
@@ -57,7 +57,7 @@ The **testbench** is used to simulate and verify the NOR gate functionality.
 
 ---
 
-## 4. Transient Simulation Results
+## Transient Simulation Results
 
 ![Simulation](NOR_OUTPUT.png)
 
@@ -84,7 +84,7 @@ The simulation confirms that the circuit behaves as a **2-input NOR gate**.
 
 ---
 
-## 5. Applications
+## Applications
 
 - Used in **combinational logic circuits**.  
 - Fundamental building block in **digital systems**.  
@@ -92,7 +92,7 @@ The simulation confirms that the circuit behaves as a **2-input NOR gate**.
 
 ---
 
-## 6. Advantages & Disadvantages
+## Advantages & Disadvantages
 
 **Advantages:**  
 - CMOS design ensures **low power consumption**.  
